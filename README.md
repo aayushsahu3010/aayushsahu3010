@@ -11,7 +11,7 @@ AI, Machine Learning, Deep Learning, and MLOps — building practical, productio
 ---
 
 ## 🎓 I am an M.Tech Student @ IIIT-NR  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=500&lines=AI+%26+ML+Learner;MLOps+Engineer;LLM+Researcher;Always+Learning+New+Tech)](https://git.io/typing-svg)
 <!-- 🐍 Snake Animation -->
 <div align="center">
   <img src="https://github.com/aayushsahu3010/aayushsahu3010/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -41,7 +41,17 @@ AI, Machine Learning, Deep Learning, and MLOps — building practical, productio
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![TailwindCSS](https://img.shields.io)
+
+
+## 📊 GitHub Stats
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushsahu3010&show_icons=true&theme=radical)
+![Aayush's GitHub Streak](https://streak-stats.demolab.com?user=aayushsahu3010&theme=radical)
+![Aayush's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aayushsahu3010&theme=radical&no-frame=true&margin-w=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsahu3010&layout=compact&theme=radical)
+
+---
+
+
 
 <!--
 **aayushsahu3010/aayushsahu3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
