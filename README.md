@@ -46,10 +46,9 @@ AI, Machine Learning, Deep Learning, and MLOps — building practical, productio
 ## 📊 GitHub Stats
 ![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushsahu3010&show_icons=true&theme=radical)
 ![Aayush's GitHub Streak](https://streak-stats.demolab.com?user=aayushsahu3010&theme=radical)
-![Aayush's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aayushsahu3010&theme=radical&no-frame=true&margin-w=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsahu3010&layout=compact&theme=radical)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushsahu3010&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsahu3010&layout=compact&theme=radical)
 
----
 
 
 
