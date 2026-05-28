@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Aayush+Sahu;AI%2FML+Engineer;MLOps+%7C+LLMs+%7C+RAG;GIS+%2B+AI+Explorer;Building+Intelligent+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Aayush+Sahu;AI%2FML+Engineer;MLOps+%7C+LLMs+%7C+RAG;Building+Intelligent+Systems+🚀" />
 
 </div>
 
@@ -13,7 +13,7 @@
 
 🎓 M.Tech Student @ IIIT-NR  
 🤖 AI/ML Engineer passionate about intelligent systems  
-🚀 Exploring LLMs, RAG Pipelines, GIS + AI, and MLOps  
+🚀 Exploring LLMs, RAG Pipelines,  AI, and MLOps  
 ⚡ Building scalable AI applications using FastAPI & Docker  
 🛰 Interested in Spatial AI & Geospatial Intelligence Systems  
 
